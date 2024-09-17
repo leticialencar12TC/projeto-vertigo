@@ -37,6 +37,10 @@ header {
     margin-bottom: 3.7rem;
 }
 
+.descricao {
+    margin-bottom: 2.5rem;
+}
+
 main {
     padding-inline: 1.5rem;
 }
@@ -45,4 +49,9 @@ main {
     color: var(--gray-800);
     margin-bottom: 1rem;
     font-size: 1.5625rem;
+}
+
+.descricao p {
+    font-size: 6.8125rem;
+    color: var(--gray-600);
 }
